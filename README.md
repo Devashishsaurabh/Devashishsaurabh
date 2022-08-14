@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devashishsaurabh?tab=repositories](https://github.com/Devashishsaurabh?tab=repositories)
 
-- 👲 My Portfolio are available at [https://devashishsaurabh-portfolio.netlify.app/] (https://devashishsaurabh-portfolio.netlify.app/)
+- 👲 My Portfolio are available at https://devashishsaurabh-portfolio.netlify.app/
 
 - 📝 I regularly write articles on [https://medium.com/@onlyvishwasindia](https://medium.com/@onlyvishwasindia)
 
