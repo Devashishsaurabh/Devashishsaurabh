@@ -13,9 +13,16 @@
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
-</br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=devashishsaurabh&label=Profile%20views&color=0e75b6&style=flat" alt="devashishsaurabh" /></p>
+<br>
 
+## ❤ Views and Followers
+<a href="https://github.com/Devashishsaurabh/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=devashishsaurabh">
+</a>
+<a href="https://github.com/devashishsaurabh?tab=followers"><img src="https://img.shields.io/github/followers/devashishsaurabh?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</br>
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devashishsaurabh" alt="devashishsaurabh" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devashishsaurabh?tab=repositories](https://github.com/Devashishsaurabh?tab=repositories)
