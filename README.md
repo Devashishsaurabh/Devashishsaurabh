@@ -24,11 +24,11 @@
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devashishsaurabh" alt="devashishsaurabh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Devashishsaurabh?tab=repositories](https://github.com/Devashishsaurabh?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Devashishsaurabh?tab=repositories)
 
-- 👲 My Portfolio are available at [https://devashishsaurabh-portfolio.netlify.app/](https://devashishsaurabhportfolio.netlify.app/)
+- 👲 My Portfolio are available at [Portfolio](https://devashishsaurabhportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@onlyvishwasindia](https://medium.com/@onlyvishwasindia)
+- 📝 I regularly write articles on [Blog](https://medium.com/@onlyvishwasindia)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, NodeJS, MongoDB, Express**
 
