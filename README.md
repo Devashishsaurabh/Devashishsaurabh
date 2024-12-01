@@ -97,8 +97,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devashishsaurabh&" alt="devashishsaurabh" /></p>
 
 
-![GitHub metrics](https://metrics.lecoq.io/devashishsaurabh)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devashishsaurabh)  
+
+
 
 
