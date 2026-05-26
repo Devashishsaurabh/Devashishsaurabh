@@ -67,4 +67,16 @@ I'm a Full Stack Software Engineer with **3+ years** shipping production MERN ap
 
 ---
 
+<h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
+<hr>
+<p align="left">
+<a href="https://github.com/j-prajwal">
+  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Devashish-AVM&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devashish-AVM&layout=compact&langs_count=8&theme=algolia"/> -->
+  <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devashish-AVM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
+</a>
+
+---
+
 <p align="center"><i>Open to interesting problems — especially anything that pairs solid engineering with thoughtful AI.</i></p>
